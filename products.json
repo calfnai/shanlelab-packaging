@@ -1,0 +1,90 @@
+[
+  {
+    "sku": "SLL-DP-002",
+    "name": "2026款春夏杜邦纸袋（新款）",
+    "row": 4,
+    "category": "包袋",
+    "source": "assets/products/SLL-DP-002.jpg",
+    "included": false
+  },
+  {
+    "sku": "SLL-DB-001",
+    "name": "2025款牛仔斜挎包",
+    "row": 5,
+    "category": "包袋",
+    "source": "assets/products/SLL-DB-001.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-BP-002",
+    "name": "2026款 PU 斜挎小包(多色可选)",
+    "row": 6,
+    "category": "包袋",
+    "source": "assets/products/SLL-BP-002.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-BP-001",
+    "name": "毛绒袋 G1",
+    "row": 7,
+    "category": "包袋",
+    "source": "assets/products/SLL-BP-001.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-MC-001",
+    "name": "经典磁吸卡套 G1（5 色）",
+    "row": 8,
+    "category": "磁吸卡套",
+    "source": "assets/products/SLL-MC-001.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-PW-002",
+    "name": "牛仔护照夹 G1",
+    "row": 9,
+    "category": "护照夹",
+    "source": "assets/products/SLL-PW-002.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-PW-001",
+    "name": "PU 护照夹 G1",
+    "row": 10,
+    "category": "护照夹",
+    "source": "assets/products/SLL-PW-001.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-NB-001",
+    "name": "缤纷小笔记本（3 色）",
+    "row": 11,
+    "category": "迷你笔记本",
+    "source": "assets/products/SLL-NB-001.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-CS-001",
+    "name": "经典缤纷卡套",
+    "row": 12,
+    "category": "卡套",
+    "source": "assets/products/SLL-CS-001.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-AIR-001",
+    "name": "磨砂气囊袋",
+    "row": 13,
+    "category": "包袋",
+    "source": "assets/products/SLL-AIR-001.jpg",
+    "included": true
+  },
+  {
+    "sku": "SLL-BAG-001",
+    "name": "POP-袋",
+    "row": 14,
+    "category": "Bag",
+    "source": "assets/products/SLL-BAG-001.jpg",
+    "included": true
+  }
+]
