@@ -1,0 +1,68 @@
+{
+  "unit": "cm",
+  "status": "awaiting_measured_dimensions",
+  "outline_width_height_ratio": 1.4,
+  "package_dimensions_cm": null,
+  "products": [
+    {
+      "sku": "SLL-DB-001",
+      "name": "2025款牛仔斜挎包",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-BP-002",
+      "name": "2026款 PU 斜挎小包(多色可选)",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-BP-001",
+      "name": "毛绒袋 G1",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-MC-001",
+      "name": "经典磁吸卡套 G1（5 色）",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-PW-002",
+      "name": "牛仔护照夹 G1",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-PW-001",
+      "name": "PU 护照夹 G1",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-NB-001",
+      "name": "缤纷小笔记本（3 色）",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-CS-001",
+      "name": "经典缤纷卡套",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-AIR-001",
+      "name": "磨砂气囊袋",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    },
+    {
+      "sku": "SLL-BAG-001",
+      "name": "POP-袋",
+      "packed_width_height_depth_cm": null,
+      "measurement_source": null
+    }
+  ]
+}
