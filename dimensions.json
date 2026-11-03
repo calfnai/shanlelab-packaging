@@ -154,5 +154,44 @@
     "dimensions_confirmed": false,
     "orientation": "平放、横放或旋转后的自然收纳；不要求竖放；不得无依据假设压缩或折叠量"
   },
-  "handoff_note": "2026-11-04整理：旧三档数值与分组仅作历史，后续对话已撤回约59×42cm大号并要求重新核算。此次未重算、未生成新方案。"
+  "handoff_note": "2026-11-04整理：旧三档数值与分组仅作历史，后续对话已撤回约59×42cm大号并要求重新核算。此次未重算、未生成新方案。",
+  "visual_proposal_v03": {
+    "version": "v03",
+    "date": "2026-11-04",
+    "status": "visual_candidate_not_production",
+    "size_count": 3,
+    "outer_sizes_cm": {
+      "S": [
+        28,
+        20,
+        6
+      ],
+      "M": [
+        35,
+        25,
+        7
+      ],
+      "L": [
+        56,
+        40,
+        12
+      ]
+    },
+    "assignments": {
+      "SLL-DB-001": "L",
+      "SLL-BP-002": "M",
+      "SLL-BP-001": "L",
+      "SLL-MC-001": "S",
+      "SLL-PW-002": "S",
+      "SLL-PW-001": "S",
+      "SLL-NB-001": "S",
+      "SLL-CS-001": "S",
+      "SLL-AIR-001": "M",
+      "SLL-BAG-001": "M"
+    },
+    "product_count": 10,
+    "scene_count": 4,
+    "unavailable_scene": "SUNDAY HOME: image generation rejected twice; reference only",
+    "scope": "Only three common sizes; no product-specific pouch; no verified cost quote or manufacturing fit."
+  }
 }
