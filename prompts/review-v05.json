@@ -1,0 +1,14 @@
+{
+  "tool": "built-in image_gen",
+  "prompt": "Use case: source-faithful product-mockup comparison sheet. Create ONE polished 2x2 comparison image, FOUR identical small transparent packaging pouches, same exact outer shape, identical pixel width and height and depth, same camera/lighting, no per-product tailoring. Image1 is the APPROVED SHAPE PROPORTION REFERENCE: copy its entire outer pouch silhouette and construction faithfully, scaled uniformly to the common SMALL size. Do not copy its pink merchandise. The curved horizontal approx1.40:1 outer silhouette, short top and bottom flat, arc sides, orange parentheses, thin transparent seams, lightly frosted rear, low-glare clear front, small integrated rear-panel hole ABOVE delicate ivory zipper on TOP gusset must be identical across all four panels. No tall/wide rectangular notebook-specific pouch. Shared outer sizing reference22.4cm wide16cm high3.5cm deep, only a visualization, no dimensions printed. Image2 yellow A6 notebook14.8x10.5x3cm: TOP LEFT, landscape, width66% outer width, height66% outer height. Image3 select ONE green wrist cardholder body7x11x1.5cm: TOP RIGHT, portrait body width31% pouch width, height69% pouch height, wrist loop softly arranged beside it, no stretching. Image4 select ONE orange magnetic cardholder6.5x9.5x1cm: BOTTOM LEFT portrait, width29% pouch width and height59% outer height, visible generous empty area. Image5 select ONE burgundy closed passport holder10x14x2cm: BOTTOM RIGHT rotate whole item90degrees with its tab so14cm edge horizontal and10cm edge vertical, occupies62.5% pouch width, keep original proportions/artwork, do not distort into landscape item. All items rest naturally near pouch bottom, no invisible centering/levitation, no background cards or filling. Never enlarge smaller merchandise to fill pouch; this is precisely to compare one standardized packaging size for four different categories. Four panels equal size, pouches aligned at the same scale and same perspective. Warm gray seamless background, soft neutral light, editorial product photography, natural texture. No text, no new logos, no giant reflections, no padded white piping. Show the actual four individual products from sources, not colored generic placeholders.",
+  "output": "assets/renders/v05/small-shared-four.png",
+  "status": "visual_review_only",
+  "small_categories": [
+    "A6笔记本",
+    "卡套",
+    "磁吸卡套",
+    "护照夹（含牛仔与PU两款）"
+  ],
+  "shape_reference": "assets/renders/v04/medium.png",
+  "production_dimensions_confirmed": false
+}
