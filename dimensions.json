@@ -13,7 +13,7 @@
         5
       ],
       "measurement_source": "用户提供",
-      "proposed_package": "L"
+      "historical_proposed_package": "L"
     },
     {
       "sku": "SLL-BP-002",
@@ -24,7 +24,7 @@
         4
       ],
       "measurement_source": "用户提供",
-      "proposed_package": "S"
+      "historical_proposed_package": "S"
     },
     {
       "sku": "SLL-BP-001",
@@ -35,7 +35,7 @@
         10
       ],
       "measurement_source": "用户提供；提手是否含在25cm内未明确",
-      "proposed_package": "M"
+      "historical_proposed_package": "M"
     },
     {
       "sku": "SLL-MC-001",
@@ -46,7 +46,7 @@
         1
       ],
       "measurement_source": "估算：标准银行卡加磁吸外壳余量",
-      "proposed_package": "S"
+      "historical_proposed_package": "S"
     },
     {
       "sku": "SLL-PW-002",
@@ -57,7 +57,7 @@
         2
       ],
       "measurement_source": "估算：标准护照本加封套余量",
-      "proposed_package": "S"
+      "historical_proposed_package": "S"
     },
     {
       "sku": "SLL-PW-001",
@@ -68,7 +68,7 @@
         2
       ],
       "measurement_source": "估算：标准护照本加封套余量",
-      "proposed_package": "S"
+      "historical_proposed_package": "S"
     },
     {
       "sku": "SLL-NB-001",
@@ -79,7 +79,7 @@
         3
       ],
       "measurement_source": "用户提供A6及厚度；按来源图横式摆放",
-      "proposed_package": "S"
+      "historical_proposed_package": "S"
     },
     {
       "sku": "SLL-CS-001",
@@ -90,7 +90,7 @@
         1.5
       ],
       "measurement_source": "估算：标准银行卡加卡套余量；腕带收在背后",
-      "proposed_package": "S"
+      "historical_proposed_package": "S"
     },
     {
       "sku": "SLL-AIR-001",
@@ -101,7 +101,7 @@
         4
       ],
       "measurement_source": "用户指定与PU小包近似",
-      "proposed_package": "S"
+      "historical_proposed_package": "S"
     },
     {
       "sku": "SLL-BAG-001",
@@ -112,10 +112,22 @@
         5
       ],
       "measurement_source": "用户提供",
-      "proposed_package": "S"
+      "historical_proposed_package": "S"
     }
   ],
-  "package_proposals": {
+  "package_proposal_status": "withdrawn_pending_orientation_aware_reassessment",
+  "excluded_products": [
+    {
+      "sku": "SLL-DP-002",
+      "width_height_depth_cm": [
+        45,
+        40,
+        15
+      ],
+      "note": "用户提供，不含手带；仍排除本次包装"
+    }
+  ],
+  "package_proposals_historical": {
     "S": [
       35,
       25,
@@ -132,16 +144,15 @@
       8
     ]
   },
-  "package_proposal_status": "比例排布候选，非已定稿；净开口及弧边占用待结构确认",
-  "excluded_products": [
-    {
-      "sku": "SLL-DP-002",
-      "width_height_depth_cm": [
-        45,
-        40,
-        15
-      ],
-      "note": "用户提供，不含手带；仍排除本次包装"
-    }
-  ]
+  "active_size_policy": {
+    "count": 3,
+    "names": [
+      "S",
+      "M",
+      "L"
+    ],
+    "dimensions_confirmed": false,
+    "orientation": "平放、横放或旋转后的自然收纳；不要求竖放；不得无依据假设压缩或折叠量"
+  },
+  "handoff_note": "2026-11-04整理：旧三档数值与分组仅作历史，后续对话已撤回约59×42cm大号并要求重新核算。此次未重算、未生成新方案。"
 }
