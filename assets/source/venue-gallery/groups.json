@@ -1,0 +1,63 @@
+[
+  {
+    "id": "A",
+    "name": "SUNDAY HOME",
+    "photo_ids": [
+      "A01",
+      "A02",
+      "A03",
+      "A04",
+      "A05",
+      "A06",
+      "A07"
+    ],
+    "status": "photos_available"
+  },
+  {
+    "id": "B",
+    "name": "暖木展区",
+    "photo_ids": [
+      "B01",
+      "B02",
+      "B03",
+      "B04",
+      "B05",
+      "B06",
+      "B07"
+    ],
+    "status": "photos_available"
+  },
+  {
+    "id": "C",
+    "name": "相机／文具／礼盒层架（原 C、D、E）",
+    "photo_ids": [
+      "C01",
+      "C02",
+      "D01",
+      "E01"
+    ],
+    "status": "photos_available"
+  },
+  {
+    "id": "F",
+    "name": "niko and… 托盘中岛",
+    "photo_ids": [
+      "F01"
+    ],
+    "status": "photos_available"
+  },
+  {
+    "id": "G",
+    "name": "2C2D 木板挂墙",
+    "photo_ids": [
+      "G01"
+    ],
+    "status": "photos_available"
+  },
+  {
+    "id": "H",
+    "name": "杭州新物集",
+    "photo_ids": [],
+    "status": "photos_pending_assignment"
+  }
+]
