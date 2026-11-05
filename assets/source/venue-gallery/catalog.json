@@ -182,5 +182,65 @@
     "image": "assets/source/venue-gallery/G01.jpg",
     "kind": "original_site_photo_web_copy",
     "group_id": "G"
+  },
+  {
+    "id": "H01",
+    "group_id": "H",
+    "group": "杭州新物集",
+    "title": "场地全景 · 原红圈指定网笼位置",
+    "image": "assets/source/venue-gallery/H01.jpg",
+    "kind": "original_site_photo_web_copy",
+    "source_note": "现场照片",
+    "source_project": "PopSticker 杭州新物集四笼陈列设计"
+  },
+  {
+    "id": "H02",
+    "group_id": "H",
+    "group": "杭州新物集",
+    "title": "白色网笼近照 · 原陈列状态",
+    "image": "assets/source/venue-gallery/H02.jpg",
+    "kind": "original_site_photo_web_copy",
+    "source_note": "现场照片",
+    "source_project": "PopSticker 杭州新物集四笼陈列设计"
+  },
+  {
+    "id": "H03",
+    "group_id": "H",
+    "group": "杭州新物集",
+    "title": "网笼与圆形层架位置关系",
+    "image": "assets/source/venue-gallery/H03.jpg",
+    "kind": "video_frame",
+    "source_note": "视频截图 · 00:04",
+    "source_project": "PopSticker 杭州新物集四笼陈列设计"
+  },
+  {
+    "id": "H04",
+    "group_id": "H",
+    "group": "杭州新物集",
+    "title": "圆形层架与周边通道",
+    "image": "assets/source/venue-gallery/H04.jpg",
+    "kind": "video_frame",
+    "source_note": "视频截图 · 00:08",
+    "source_project": "PopSticker 杭州新物集四笼陈列设计"
+  },
+  {
+    "id": "H05",
+    "group_id": "H",
+    "group": "杭州新物集",
+    "title": "对面展墙与开敞区域",
+    "image": "assets/source/venue-gallery/H05.jpg",
+    "kind": "video_frame",
+    "source_note": "视频截图 · 00:17",
+    "source_project": "PopSticker 杭州新物集四笼陈列设计"
+  },
+  {
+    "id": "H06",
+    "group_id": "H",
+    "group": "杭州新物集",
+    "title": "侧面通道与柜台",
+    "image": "assets/source/venue-gallery/H06.jpg",
+    "kind": "video_frame",
+    "source_note": "视频截图 · 00:22",
+    "source_project": "PopSticker 杭州新物集四笼陈列设计"
   }
 ]

@@ -57,7 +57,14 @@
   {
     "id": "H",
     "name": "杭州新物集",
-    "photo_ids": [],
-    "status": "photos_pending_assignment"
+    "photo_ids": [
+      "H01",
+      "H02",
+      "H03",
+      "H04",
+      "H05",
+      "H06"
+    ],
+    "status": "photos_available"
   }
 ]
